@@ -39,7 +39,7 @@ function App() {
           element: <Home />,
         },
         {
-          path: "home",
+          path: "home", 
           element: <Home />,
         },
         {
